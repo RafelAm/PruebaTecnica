@@ -1,5 +1,5 @@
 # Documentación Prueba Técnica W2M
-El método de seguridad esta creado pero no lo he implementado porque solo deja hacer peticiones get indicando un usuario y contraseña, con los demás métodos no funciona y ha error 401.
+El método de seguridad esta creado pero no lo he implementado porque solo deja hacer peticiones get indicando un usuario y contraseña, con los demás métodos no funciona y da error 401.
 
 ## Rutas
     GET -> http://localhost:8080/naves
